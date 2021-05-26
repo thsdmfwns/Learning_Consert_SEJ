@@ -1,0 +1,14 @@
+﻿  R_W_Lectures.cpp
+C:\Users\son\source\repos\Learning_Consert_SEJ\Learning_Consert_SEJ\R_W_Lectures.cpp(262,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\son\source\repos\Learning_Consert_SEJ\Learning_Consert_SEJ\R_W_Lectures.cpp(264,37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\son\source\repos\Learning_Consert_SEJ\Learning_Consert_SEJ\R_W_Lectures.cpp(275,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\son\source\repos\Learning_Consert_SEJ\Learning_Consert_SEJ\R_W_Lectures.cpp(277,37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\son\source\repos\Learning_Consert_SEJ\Learning_Consert_SEJ\R_W_Lectures.cpp(342,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\son\source\repos\Learning_Consert_SEJ\Learning_Consert_SEJ\R_W_Lectures.cpp(353,37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\son\source\repos\Learning_Consert_SEJ\Learning_Consert_SEJ\R_W_Lectures.cpp(431,19): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  3 of 389 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Learning_Consert_SEJ.vcxproj -> C:\Users\son\source\repos\Learning_Consert_SEJ\Release\Learning_Consert_SEJ.exe
